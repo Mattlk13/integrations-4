@@ -3607,8 +3607,8 @@ tough-cookie@~2.3.0:
     punycode "^1.4.1"
 
 tree-kill@^1.1.0:
-  version "1.1.0"
-  resolved "https://registry.yarnpkg.com/tree-kill/-/tree-kill-1.1.0.tgz#c963dcf03722892ec59cba569e940b71954d1729"
+  version "1.2.2"
+  resolved "https://registry.yarnpkg.com/tree-kill/-/tree-kill-1.2.2.tgz#4ca09a9092c88b73a7cdc5e8a01b507b0790a0cc"
 
 trim-newlines@^1.0.0:
   version "1.0.0"
@@ -3819,9 +3819,9 @@ watch@^1.0.1:
     exec-sh "^0.2.0"
     minimist "^1.2.0"
 
-"wechat-api@git+https://git@github.com/node-webot/wechat-api.git#295ad45e199ef93610c4d3a9350de6992a932d8c":
-  version "1.32.0"
-  resolved "git+https://git@github.com/node-webot/wechat-api.git#295ad45e199ef93610c4d3a9350de6992a932d8c"
+wechat-api@^1.35.0:
+  version "1.35.1"
+  resolved "https://registry.yarnpkg.com/wechat-api/-/wechat-api-1.35.1.tgz#cd639bc1729ecb5d80a6ac92064c24d8ed8ee65b"
   dependencies:
     formstream ">=1.0.0"
     urllib "2.21.0"
